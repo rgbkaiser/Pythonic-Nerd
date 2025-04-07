@@ -15,4 +15,8 @@ Each folder in this repository represents a separate assignment. Here's a brief 
 **Description About Task 1**: Enter a number and the program will print that the number entered by you is an even or an odd number.
 **Description About Task 2**: Will print the sum of numbers from 1 to 50 using range function and for loop
 
+### ✅ 3. Assignment 3
+**Description About Task 1**: Gives the factorial of the number inputted by the user.
+**Description About Task 2**: Gives square root, log, sin value of the number inputted by the user.
+
 > 🔍 _Note: Detailed instructions and code explanations about each program can be found inside `README.md`._
