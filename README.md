@@ -8,11 +8,11 @@ This repository includes various hands-on projects that demonstrate concepts lik
 Each folder in this repository represents a separate assignment. Here's a brief overview of what you’ll find:
 
 ### ✅ 1. Assignment 1
-**Description**: A short explanation of what the project does.  
-**Tech Used**: Python, libraries used (e.g., `tkinter`, `pandas`, `flask`)
+**Description About Task 1**: You have to input 2 numbers and the programe will print the addition, substraction, multiplication and division of that 2 numbers.
+**Description About Task 2**: Enter your first name and last name and the programe will print a greeting message for you which will include your first and last name.
 
 ### ✅ 2. Assignment 2
-**Description**: Another cool project and what it demonstrates.  
-**Tech Used**: Python, any frameworks or tools used.
+**Description About Task 1**: Enter a number and the programe will print that the number entered by you is an even or an odd number  
+**Description About Task 2**: Will print the sum of numbers from 1 to 50 using range function and for loop
 
-> 🔍 _Note: Detailed instructions and code explanations can be found inside each project's folder in a file named `README.md`._
+> 🔍 _Note: Detailed instructions and code explanations about each programe can be found inside `README.md`._
