@@ -10,4 +10,4 @@ try:
 except:
     print("Error: The file 'sample.txt' was not found.")
 
-input("\nPress Enter To Exit...")
+input("\nPress Enter To Exit...") 

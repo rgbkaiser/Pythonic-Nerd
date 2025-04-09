@@ -23,4 +23,8 @@ Each folder in this repository represents a separate assignment. Here's a brief 
 **Description About Task 1**: Program to print each line present in sample.txt.\
 **Description About Task 2**: Program to take input from the user and write in output.txt and then ask for a additional content to be inputed by the user and then print the whole content present in output.txt.
 
+### ✅ 4. Assignment 5
+**Description About Task 1**: Program to display the marks of the student.\
+**Description About Task 2**: Program to create a list and extract some values and reverse it.
+
 > 🔍 _Note: Detailed instructions and code explanations about each program can be found inside `README.md`._
