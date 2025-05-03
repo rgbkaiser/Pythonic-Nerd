@@ -1,0 +1,13 @@
+-------------------------------------------------------------------
+| Feature          |             Command Example                  |
+-------------------------------------------------------------------
+| Save LTC         |     &saveltc <yourLTCaddress>                |
+| Get LTC          |     &getltc                                  |
+| Save UPI         |     &saveupi <label> <yourupi@bank>          |
+| Get UPI          |     &getupi label                            |
+| Save Message     |     &savemsg <hello Hello, how are you?>     |
+| Get Message      |     &msg hello                               |
+| Set AFK          |     &afk <Out grabbing supplies>             |
+| Back from AFK    |     &back                                    | 
+| Purge Messages   |     &purge 20 (deletes your last 20 msgs)    |
+-------------------------------------------------------------------

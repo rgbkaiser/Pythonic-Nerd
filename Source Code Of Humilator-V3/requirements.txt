@@ -1,0 +1,9 @@
+aiohttp
+discord.py
+discord.py-self
+requests
+colorama
+discord_webhook
+numpy
+pywin32
+pycryptodome

@@ -1,0 +1,10 @@
+{
+    "ltc": "ltc1qewxfez9al05p0n3r5twhqcq25dtzvwl7rn36r5",
+    "upi": {
+        "fam": "8090029221@fam",
+        "slice": "8090029221@slc"
+    },
+    "messages": {
+        "greet": "Hello! I'm currently unavailable, ping me later!"
+    }
+}

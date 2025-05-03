@@ -1,0 +1,10 @@
+{
+    "ltc": "YOUR-LTC-ADDRESS-HERE",
+    "upi": {
+        "fam": "YOUR-FAMPAY-ID-HERE",
+        "slice": "YOUR-SLICE-ID-HERE"
+    },
+    "messages": {
+        "greet": "Hello! I'm currently unavailable, ping me later!"
+    }
+}
