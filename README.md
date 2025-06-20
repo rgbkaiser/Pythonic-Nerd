@@ -27,4 +27,7 @@ Each folder in this repository represents a separate assignment. Here's a brief 
 **Description About Task 1**: Program to display the marks of the student.\
 **Description About Task 2**: Program to create a list and extract some values and reverse it.
 
+### ✅ 5. Assignment 6
+**Description About Task**: To make a GUI Calculator using Tkinter.\
+
 > 🔍 _Note: Detailed instructions and code explanations about each program can be found inside `README.md`._
